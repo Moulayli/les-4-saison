@@ -1,0 +1,52 @@
+
+.ete{
+    background: url('https://cdn.futura-sciences.com/buildsv6/images/wide1920/8/5/4/854e541aef_126663_solstice-ete-def-jour-plus-long.jpg') no-repeat center fixed;
+    background-size:cover ;
+    font-family: TeX Gyre Schola;
+
+}
+.autone{
+    background: url('https://img.huffingtonpost.com/asset/5d81003b2400002e2a7cd5e3.jpeg?cache=ufqvNOREx8&ops=1778_1000') no-repeat center fixed;
+    background-size:cover ;
+    color: darkturquoise;
+    font-family: cursive;
+}
+.hiver{
+    background: url('https://arpenterlechemin.com/wp-content/uploads/2018/02/1070042-2.jpg') no-repeat center fixed;
+    background-size: cover;
+    font-family: Luminari;
+}
+.printemps{
+    background: url('https://img.huffingtonpost.com/asset/5c987ad72400007e064f3f14.jpeg?ops=1778_1000') no-repeat center fixed;
+    background-size: cover;
+}
+
+.poeme{
+    padding: 25%;
+    font-family: Poesie;
+}
+
+section{
+    min-height:757px;
+}
+
+.test{
+    padding: 25px;
+    background-color: rgba(26, 41, 68, 0.349);
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+.test a {
+    text-decoration: none;
+}
+.test a:hover{
+    color: darkturquoise;
+}
+.test:hover{
+    background-color:rgba(26, 41, 68, 0.63);
+}
+span{
+    font-family: poesie , serif;
+}

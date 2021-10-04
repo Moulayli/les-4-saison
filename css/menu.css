@@ -1,0 +1,20 @@
+.menu{
+    background-color: rgba(18, 27, 24, 0.479);
+    position: fixed;
+    top: 50%;
+    left: 90%;
+    max-width: 100px;
+    font-family: cursive;
+    border-radius: 15px;
+
+}
+.menu:hover{
+    background-color:rgba(26, 41, 68, 0.63);
+}
+nav ul a {
+    text-decoration: none;
+    color: rgb(214, 226, 245);
+}
+a:hover{
+    color: darkturquoise;
+}

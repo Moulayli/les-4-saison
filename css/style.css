@@ -1,0 +1,19 @@
+@import "conposant.css";
+@import "menu.css";
+@font-face{
+    font-family: "La Belle Aurore";
+    src: url("asset/font/La_Belle_Aurore.ttf");
+}
+@font-face{
+    font-family: "Poesie";
+    src: url("asset/font/poesie.otf");
+}
+body{
+    scroll-behavior:inherit;
+}
+
+/*
+body{
+    background-color: ;
+}
+*/
