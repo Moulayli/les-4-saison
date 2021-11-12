@@ -27,7 +27,7 @@
 }
 
 section{
-    min-height:757px;
+    height: 100vh;
 }
 
 .test{
